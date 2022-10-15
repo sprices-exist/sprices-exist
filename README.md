@@ -5,7 +5,7 @@
 I am a Computer Science Major at Kielce University of Technology.
 
 
-## Find me around the web 🌎: <img align="left" width="150" height="150" style="padding: 50px;" src="https://user-images.githubusercontent.com/68065642/195982887-e31124c4-23b4-4f8c-87f9-010838f47527.gif?raw=true"></a>
+## Find me around the web 🌎 <img align="left" width="150" height="150" style="padding: 50px;" src="https://user-images.githubusercontent.com/68065642/195982887-e31124c4-23b4-4f8c-87f9-010838f47527.gif?raw=true"></a>
 
 <p>- On my <a href="https://www.tanmay.eu">website</a>📹 ✍🏾</p>
 <p>- Sharing updates on <a href="https://www.linkedin.com/in/tanmay-nandanikar/">LinkedIn</a> 💼</p>
