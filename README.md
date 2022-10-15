@@ -1,6 +1,6 @@
 
 ### Hi! I'm Tanmay 👋
-![Untitled-1](https://user-images.githubusercontent.com/68065642/195982455-4e8966f4-3913-4334-bc80-d8f00643b883.png)
+![Untitled-2](https://user-images.githubusercontent.com/68065642/195982716-ab9f7bda-0da6-4f1d-872a-e4dd88dcd14d.png)
 
 
 <!--
