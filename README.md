@@ -1,4 +1,7 @@
-### Hi there 👋
+
+### Hi! I'm Tanmay 👋
+![Untitled-1](https://user-images.githubusercontent.com/68065642/195982455-4e8966f4-3913-4334-bc80-d8f00643b883.png)
+
 
 <!--
 **sprices-exist/sprices-exist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
