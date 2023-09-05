@@ -2,7 +2,7 @@
 ### Hi! I'm Tanmay 👋
 ![Untitled-2](https://user-images.githubusercontent.com/68065642/195982716-ab9f7bda-0da6-4f1d-872a-e4dd88dcd14d.png)
 
-I am a Computer Science Major at Kielce University of Technology.
+I am a MSc Computer Science Major at Wroclaw University of Technology. BSc Graduate from Kielce University of Technology.
 
 
 ## Find me around the web 🌎 <img align="right" width="150" height="150" style="padding: 50px;" src="https://user-images.githubusercontent.com/68065642/195982887-e31124c4-23b4-4f8c-87f9-010838f47527.gif?raw=true"></a>
